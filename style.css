@@ -1,5 +1,9 @@
 body{
-    color: aqua;
-    background-color: black;
+    color: rgb(7, 7, 7);
+    background-color: rgb(204, 30, 88);
+    margin:7px
   
+}
+header{
+    border:solid 5px black;
 }
