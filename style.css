@@ -1,9 +1,28 @@
 body{
     color: rgb(7, 7, 7);
     background-color: rgb(204, 30, 88);
-    margin:7px
+    margin:0px;
+    fonte. font-family: "Chakra Petch", sans-serif;
   
 }
 header{
     border:solid 5px black;
-}
+    padding:20px;
+    font-size: 32px;
+    color:black;
+    }
+
+    section{
+        background-color: blanchedalmond;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .chama-texto{
+        margin-right: 20px;
+    }
+    
+
+
